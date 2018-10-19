@@ -48,7 +48,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -850,6 +851,123 @@
               "2",
               "[@emedinaa](https://github.com/emedinaa)/[**fragment_activity**](https://github.com/emedinaa/fragment_activity)",
               "Ejemplo de comunicación entre fragments y activity",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "83",
+              "[@jaime-olivares](https://github.com/jaime-olivares)/[**zipstorer**](https://github.com/jaime-olivares/zipstorer)",
+              "A Pure C# Class to Store Files in Zip",
+              ""
+            ],
+            [
+              "53",
+              "[@wilsonvargas](https://github.com/wilsonvargas)/[**ButtonCirclePlugin**](https://github.com/wilsonvargas/ButtonCirclePlugin)",
+              "Circle Buttons with icon for your Xamarin.Forms Applications ",
+              ""
+            ],
+            [
+              "23",
+              "[@jaime-olivares](https://github.com/jaime-olivares)/[**wpf-propertygrid**](https://github.com/jaime-olivares/wpf-propertygrid)",
+              "Repackaging of Workflow Foundation's property grid for general use in WPF applications",
+              ""
+            ],
+            [
+              "10",
+              "[@wilsonvargas](https://github.com/wilsonvargas)/[**EntryValidatorPlugin**](https://github.com/wilsonvargas/EntryValidatorPlugin)",
+              "Entry validators for your Xamarin.Forms Applications ",
+              ""
+            ],
+            [
+              "9",
+              "[@wilsonvargas](https://github.com/wilsonvargas)/[**ScreenshotPlugin**](https://github.com/wilsonvargas/ScreenshotPlugin)",
+              "A simple Screenshot plugin for Xamarin and Windows to get and save screenshot in yours apps.",
+              ""
+            ],
+            [
+              "7",
+              "[@wilsonvargas](https://github.com/wilsonvargas)/[**GradientNavigationTo…**](https://github.com/wilsonvargas/GradientNavigationToolbarXamarinForms)",
+              "This is a small sample application showing how to custom a Navigation Page (Toolbar on Android or UINavigationBar on iOS)",
+              ""
+            ],
+            [
+              "7",
+              "[@wilsonvargas](https://github.com/wilsonvargas)/[**QRManager**](https://github.com/wilsonvargas/QRManager)",
+              "This is an example that uses ZXing.Net.Mobile for Forms.  See more information here: ",
+              "[:arrow_upper_right:](http://blog.wilsonvargas.com/generando-y-leyendo-codigos-qr-con-xamarin-form/)"
+            ],
+            [
+              "6",
+              "[@wilsonvargas](https://github.com/wilsonvargas)/[**SearchBarNavigationP…**](https://github.com/wilsonvargas/SearchBarNavigationPage)",
+              "This is a small sample showing how to add a search bar to Navigation Page (Toolbar on Android or UINavigationBar on iOS)",
+              ""
+            ],
+            [
+              "6",
+              "[@jesulink2514](https://github.com/jesulink2514)/[**Xamarin.ProgressStat…**](https://github.com/jesulink2514/Xamarin.ProgressStatusBar)",
+              "A cross-platform control to represent a status bar",
+              ""
+            ],
+            [
+              "6",
+              "[@wilsonvargas](https://github.com/wilsonvargas)/[**SimpleLoginXamarinFo…**](https://github.com/wilsonvargas/SimpleLoginXamarinForms)",
+              "This is a simple example how to do a login using Xamarin.Form. The theoretical part can be found in the following link: ",
+              "[:arrow_upper_right:](http://wilsonvargas.azurewebsites.net/creando-un-simple-login-en-xamarin-forms/)"
+            ],
+            [
+              "5",
+              "[@jesulink2514](https://github.com/jesulink2514)/[**CardDemoXamarin**](https://github.com/jesulink2514/CardDemoXamarin)",
+              "Sample using XamarinFastEntryBehavior to create a credit card form with card type detection in Xamarin.Forms",
+              ""
+            ],
+            [
+              "4",
+              "[@jaime-olivares](https://github.com/jaime-olivares)/[**coordinate**](https://github.com/jaime-olivares/coordinate)",
+              "C# Classes to store, handle, and retrieve geodesic coordinates, in memory, database, and XML, according to the ISO 6709 standard",
+              ""
+            ],
+            [
+              "3",
+              "[@jaime-olivares](https://github.com/jaime-olivares)/[**bzip2**](https://github.com/jaime-olivares/bzip2)",
+              "A pure C# implementation of the bzip2 compressor",
+              ""
+            ],
+            [
+              "3",
+              "[@jesulink2514](https://github.com/jesulink2514)/[**Xamarin.Forms.Redux-…**](https://github.com/jesulink2514/Xamarin.Forms.Redux-Sample)",
+              "Sample using Redux architecture with Xamarin.Forms",
+              ""
+            ],
+            [
+              "2",
+              "[@emiaj](https://github.com/emiaj)/[**windmill**](https://github.com/emiaj/windmill)",
+              "FubuMVC Permissions Module",
+              ""
+            ],
+            [
+              "2",
+              "[@emiaj](https://github.com/emiaj)/[**YouGrade**](https://github.com/emiaj/YouGrade)",
+              "MS MVC3 project (http://www.codeproject.com/KB/aspnet/Yo… ported to the FubuMVC framework, the AngularJS version of this project can be found here https://github.com/emiaj/spa-yougrade",
+              ""
+            ],
+            [
+              "2",
+              "[@emiaj](https://github.com/emiaj)/[**FubuMvcSparkProjectT…**](https://github.com/emiaj/FubuMvcSparkProjectTemplate)",
+              "VS project template to quickly create FUBU MVC ready apps that use the Spark view engine.",
               ""
             ]
           ]

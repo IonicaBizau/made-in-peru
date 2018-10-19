@@ -39,5 +39,536 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-peru/issues"
+  },
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "114",
+              "[@bjrmatos](https://github.com/bjrmatos)/[**electron-workers**](https://github.com/bjrmatos/electron-workers)",
+              "Run electron scripts in managed workers :rocket: ",
+              ""
+            ],
+            [
+              "113",
+              "[@zmandel](https://github.com/zmandel)/[**Plus-for-Trello**](https://github.com/zmandel/Plus-for-Trello)",
+              "Plus for Trello chrome extension, web & mobile app",
+              "[:arrow_upper_right:](https://chrome.google.com/webstore/detail/plus-for-trello-time-trac/gjjpophepkbhejnglcmkdnncmaanojkf)"
+            ],
+            [
+              "48",
+              "[@bjrmatos](https://github.com/bjrmatos)/[**electron-html-to**](https://github.com/bjrmatos/electron-html-to)",
+              "Highly scalable html conversion using electron workers :rocket:",
+              ""
+            ],
+            [
+              "33",
+              "[@bjrmatos](https://github.com/bjrmatos)/[**jsreport-electron-pd…**](https://github.com/bjrmatos/jsreport-electron-pdf)",
+              "jsreport recipe which renders pdf from html using electron :rocket:",
+              ""
+            ],
+            [
+              "19",
+              "[@jansanchez](https://github.com/jansanchez)/[**gulp-css-url-version…**](https://github.com/jansanchez/gulp-css-url-versioner)",
+              "A gulp plugin for versioning the CSS property: url",
+              ""
+            ],
+            [
+              "19",
+              "[@jansanchez](https://github.com/jansanchez)/[**gulp-email**](https://github.com/jansanchez/gulp-email)",
+              "A gulp plugin to send emails with or without attachments from a stream of html.",
+              ""
+            ],
+            [
+              "15",
+              "[@bjrmatos](https://github.com/bjrmatos)/[**sequelize-auto-impor…**](https://github.com/bjrmatos/sequelize-auto-import)",
+              "Import sequelize models automagically :sparkles:",
+              ""
+            ],
+            [
+              "14",
+              "[@lupomontero](https://github.com/lupomontero)/[**horseshoe**](https://github.com/lupomontero/horseshoe)",
+              "A wrapper around nodemailer used for sending email using handlebars templates.",
+              "[:arrow_upper_right:](http://lupomontero.github.io/horseshoe/)"
+            ],
+            [
+              "14",
+              "[@bjrmatos](https://github.com/bjrmatos)/[**json-schema-sugar**](https://github.com/bjrmatos/json-schema-sugar)",
+              "Create a JSON Schema without the pain of writing it :icecream:",
+              ""
+            ],
+            [
+              "14",
+              "[@lupomontero](https://github.com/lupomontero)/[**node-cppspeed**](https://github.com/lupomontero/node-cppspeed)",
+              "Node.js modules speed test: C++ vs JavaScript",
+              ""
+            ],
+            [
+              "12",
+              "[@jansanchez](https://github.com/jansanchez)/[**jscomplex**](https://github.com/jansanchez/jscomplex)",
+              "A colorful reporter for maintainability index via escomplex",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/jscomplex)"
+            ],
+            [
+              "10",
+              "[@jansanchez](https://github.com/jansanchez)/[**mydependencies**](https://github.com/jansanchez/mydependencies)",
+              "Reader of dependencies from package.json on terminal ",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/mydependencies)"
+            ],
+            [
+              "10",
+              "[@jansanchez](https://github.com/jansanchez)/[**es2015-nodejs-boiler…**](https://github.com/jansanchez/es2015-nodejs-boilerplate)",
+              "es2015 nodejs boilerplate. Includes: babel, xo, webpack and pm2",
+              ""
+            ],
+            [
+              "10",
+              "[@erikfloresq](https://github.com/erikfloresq)/[**skeletor**](https://github.com/erikfloresq/skeletor)",
+              "Estructura base para un proyecto basado en jade, stylus, es2015. Se usa gulp para la gestión de tareas. 💀",
+              ""
+            ],
+            [
+              "9",
+              "[@ghondar](https://github.com/ghondar)/[**PelisTime**](https://github.com/ghondar/PelisTime)",
+              "Mira películas y series en español en HD y full HD al instante.",
+              ""
+            ],
+            [
+              "9",
+              "[@lupomontero](https://github.com/lupomontero)/[**couchmin**](https://github.com/lupomontero/couchmin)",
+              "A command line tool to manage multiple local and remote CouchDB servers.",
+              ""
+            ],
+            [
+              "9",
+              "[@lupomontero](https://github.com/lupomontero)/[**jQuery.locationPicke…**](https://github.com/lupomontero/jQuery.locationPicker)",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "[@bjrmatos](https://github.com/bjrmatos)/[**curso-reactjs**](https://github.com/bjrmatos/curso-reactjs)",
+              "Demos y Ejemplos para el curso de React.js",
+              ""
+            ],
+            [
+              "8",
+              "[@ghondar](https://github.com/ghondar)/[**universal-redux-boil…**](https://github.com/ghondar/universal-redux-boilerplate)",
+              "Un simple boilerplate para el uso de universal js con react, redux y react-router",
+              ""
+            ],
+            [
+              "8",
+              "[@juanpablocs](https://github.com/juanpablocs)/[**jade-php-twig**](https://github.com/juanpablocs/jade-php-twig)",
+              "jade with php inspired in twig",
+              ""
+            ],
+            [
+              "8",
+              "[@android-sos](https://github.com/android-sos)/[**Ionic2Pokedex**](https://github.com/android-sos/Ionic2Pokedex)",
+              "Ionic 2 Pokedex",
+              ""
+            ],
+            [
+              "8",
+              "[@jansanchez](https://github.com/jansanchez)/[**generator-hubot-tren…**](https://github.com/jansanchez/generator-hubot-trendy)",
+              "A Yeoman generator for creating your own chatbot using the Hubot framework",
+              ""
+            ],
+            [
+              "7",
+              "[@merunga](https://github.com/merunga)/[**redux-todos**](https://github.com/merunga/redux-todos)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@juanpablocs](https://github.com/juanpablocs)/[**mvhost**](https://github.com/juanpablocs/mvhost)",
+              "create simple virtualhost for apache2 with npm",
+              ""
+            ],
+            [
+              "6",
+              "[@marti1125](https://github.com/marti1125)/[**Earthquake**](https://github.com/marti1125/Earthquake)",
+              "List of Earthquake",
+              "[:arrow_upper_right:](earthquake.usgs.gov)"
+            ],
+            [
+              "6",
+              "[@lupomontero](https://github.com/lupomontero)/[**couchdb-oauth**](https://github.com/lupomontero/couchdb-oauth)",
+              "A CouchDB OAuth working example in Node.js",
+              ""
+            ],
+            [
+              "5",
+              "[@zmandel](https://github.com/zmandel)/[**htmlService-get-set-…**](https://github.com/zmandel/htmlService-get-set-data)",
+              "for Google Apps Script HtmlService. Set and get a data object on an htmlOutput",
+              ""
+            ],
+            [
+              "5",
+              "[@lupomontero](https://github.com/lupomontero)/[**backbone-validator**](https://github.com/lupomontero/backbone-validator)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@jansanchez](https://github.com/jansanchez)/[**css-url-versioner**](https://github.com/jansanchez/css-url-versioner)",
+              "A node package for css url versioner",
+              ""
+            ],
+            [
+              "5",
+              "[@juanpablocs](https://github.com/juanpablocs)/[**jade-atomic**](https://github.com/juanpablocs/jade-atomic)",
+              "atomic design for jade",
+              ""
+            ],
+            [
+              "5",
+              "[@jansanchez](https://github.com/jansanchez)/[**gulp-recursive-conca…**](https://github.com/jansanchez/gulp-recursive-concat)",
+              "A Gulp recursive concatenation",
+              ""
+            ],
+            [
+              "5",
+              "[@marti1125](https://github.com/marti1125)/[**CoderWall-Badges**](https://github.com/marti1125/CoderWall-Badges)",
+              "CoderWall-Badges",
+              ""
+            ],
+            [
+              "5",
+              "[@lupomontero](https://github.com/lupomontero)/[**jsperu-streams**](https://github.com/lupomontero/jsperu-streams)",
+              "Notas y ejemplos para presentación en reunión de JavaScript Perú 10 Dic 2012",
+              ""
+            ],
+            [
+              "5",
+              "[@romelgomez](https://github.com/romelgomez)/[**jqtree-spring-mvc-ga…**](https://github.com/romelgomez/jqtree-spring-mvc-gae-example)",
+              "JqTree, Spring MVC, GoogleAppEngine; Example:",
+              ""
+            ],
+            [
+              "5",
+              "[@jansanchez](https://github.com/jansanchez)/[**jade-examples**](https://github.com/jansanchez/jade-examples)",
+              "Jade Examples",
+              ""
+            ],
+            [
+              "5",
+              "[@carloshs92](https://github.com/carloshs92)/[**mocha-tutorial-prime…**](https://github.com/carloshs92/mocha-tutorial-primeros-pasos)",
+              "Ejercicio demo para el uso de Mocha",
+              ""
+            ],
+            [
+              "5",
+              "[@marti1125](https://github.com/marti1125)/[**SubeAlMetro**](https://github.com/marti1125/SubeAlMetro)",
+              "Metro de Lima",
+              ""
+            ],
+            [
+              "4",
+              "[@bjrmatos](https://github.com/bjrmatos)/[**chrome-page-eval**](https://github.com/bjrmatos/chrome-page-eval)",
+              "Evaluate a script function on a page with Chrome 🔮",
+              ""
+            ],
+            [
+              "4",
+              "[@bjrmatos](https://github.com/bjrmatos)/[**jsreport-pug**](https://github.com/bjrmatos/jsreport-pug)",
+              "Use pug templating engine in jsreport",
+              "[:arrow_upper_right:](https://jsreport.net/)"
+            ],
+            [
+              "4",
+              "[@jansanchez](https://github.com/jansanchez)/[**npmrun**](https://github.com/jansanchez/npmrun)",
+              "nr, an alias for `npm run`",
+              ""
+            ],
+            [
+              "4",
+              "[@merunga](https://github.com/merunga)/[**hablemosquechua**](https://github.com/merunga/hablemosquechua)",
+              "experimento tecno-socio-cultural restableciendo conexiones...  (beta) en desarrollo por @marianocrowe @sankaypillo @kikomayorga @escuelab @runasimipi",
+              "[:arrow_upper_right:](robot.hablemosquechua.org)"
+            ],
+            [
+              "4",
+              "[@lavaldi](https://github.com/lavaldi)/[**users-graphql-exampl…**](https://github.com/lavaldi/users-graphql-example)",
+              "A small example using graphql",
+              ""
+            ],
+            [
+              "4",
+              "[@merunga](https://github.com/merunga)/[**opendata-rios-peru**](https://github.com/merunga/opendata-rios-peru)",
+              "Mapa hidrografico en openlayers del Peru",
+              ""
+            ],
+            [
+              "4",
+              "[@jansanchez](https://github.com/jansanchez)/[**didactic-react**](https://github.com/jansanchez/didactic-react)",
+              "didactic react",
+              ""
+            ],
+            [
+              "4",
+              "[@jansanchez](https://github.com/jansanchez)/[**redmine-issues**](https://github.com/jansanchez/redmine-issues)",
+              "Redmine Issues Rest API Client for node.js",
+              ""
+            ],
+            [
+              "4",
+              "[@juaneladio](https://github.com/juaneladio)/[**Metropolitano-Mobile**](https://github.com/juaneladio/Metropolitano-Mobile)",
+              "[OBSOLETO: Ver https://github.com/juaneladio/metropolit… ] Proyecto en JQuery Mobile para construir una web móvil con información del servicio de transporte Metropolitano en Lima, Perú.",
+              ""
+            ],
+            [
+              "4",
+              "[@lupomontero](https://github.com/lupomontero)/[**banoffee**](https://github.com/lupomontero/banoffee)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@erikfloresq](https://github.com/erikfloresq)/[**servo**](https://github.com/erikfloresq/servo)",
+              "servo is my server dummy 🦄",
+              ""
+            ],
+            [
+              "3",
+              "[@jerson](https://github.com/jerson)/[**raml-js-webservice-g…**](https://github.com/jerson/raml-js-webservice-generator-old)",
+              "RAML webservice generator .. is still in development!! ",
+              ""
+            ],
+            [
+              "3",
+              "[@lupomontero](https://github.com/lupomontero)/[**jQuery.suggest**](https://github.com/lupomontero/jQuery.suggest)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@marti1125](https://github.com/marti1125)/[**paint**](https://github.com/marti1125/paint)",
+              "paint",
+              ""
+            ],
+            [
+              "3",
+              "[@ghondar](https://github.com/ghondar)/[**lowdb-recursive**](https://github.com/ghondar/lowdb-recursive)",
+              "Flat JSON file database recursive",
+              ""
+            ],
+            [
+              "3",
+              "[@jansanchez](https://github.com/jansanchez)/[**pageres-demo**](https://github.com/jansanchez/pageres-demo)",
+              "Demo del uso de pageres con Gulp.js",
+              ""
+            ],
+            [
+              "3",
+              "[@jansanchez](https://github.com/jansanchez)/[**gulp-primeros-pasos**](https://github.com/jansanchez/gulp-primeros-pasos)",
+              "Primeros pasos con gulp",
+              ""
+            ],
+            [
+              "3",
+              "[@ghondar](https://github.com/ghondar)/[**PelisTime-Mobile**](https://github.com/ghondar/PelisTime-Mobile)",
+              "Mira películas y series en español en HD y full HD al instante desde tu celular.",
+              ""
+            ],
+            [
+              "3",
+              "[@jansanchez](https://github.com/jansanchez)/[**compresor-de-imagene…**](https://github.com/jansanchez/compresor-de-imagenes)",
+              "Compresor de imágenes con Gulp",
+              ""
+            ],
+            [
+              "3",
+              "[@alejandrogarciasalas](https://github.com/alejandrogarciasalas)/[**Google-docs-clone**](https://github.com/alejandrogarciasalas/Google-docs-clone)",
+              "A simple google docs clone made with socket.io",
+              ""
+            ],
+            [
+              "2",
+              "[@bjrmatos](https://github.com/bjrmatos)/[**grunt-external-confi…**](https://github.com/bjrmatos/grunt-external-config)",
+              "Example of split grunt config file in multiple files",
+              ""
+            ],
+            [
+              "2",
+              "[@Rub21](https://github.com/Rub21)/[**tofix-cli**](https://github.com/Rub21/tofix-cli)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@Rub21](https://github.com/Rub21)/[**openhuamanga**](https://github.com/Rub21/openhuamanga)",
+              "Primera aplicacion  web para proyecto Open Data de la Municipalidad de Humanga",
+              ""
+            ],
+            [
+              "2",
+              "[@Rub21](https://github.com/Rub21)/[**registro-ayacucho**](https://github.com/Rub21/registro-ayacucho)",
+              "",
+              "[:arrow_upper_right:](http://rub21.github.com/registro-ayacucho/)"
+            ],
+            [
+              "2",
+              "[@Rub21](https://github.com/Rub21)/[**osrm-local-server**](https://github.com/Rub21/osrm-local-server)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@merunga](https://github.com/merunga)/[**laboratoria-redux**](https://github.com/merunga/laboratoria-redux)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@romelgomez](https://github.com/romelgomez)/[**jqtree-angularjs-fir…**](https://github.com/romelgomez/jqtree-angularjs-firebase-example)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@romelgomez](https://github.com/romelgomez)/[**angular-firebase-log…**](https://github.com/romelgomez/angular-firebase-login-example)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ghondar](https://github.com/ghondar)/[**react-create-app-red…**](https://github.com/ghondar/react-create-app-redux-boilerplate)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@erikfloresq](https://github.com/erikfloresq)/[**react101**](https://github.com/erikfloresq/react101)",
+              "playing and learning with react :D",
+              ""
+            ],
+            [
+              "2",
+              "[@Rub21](https://github.com/Rub21)/[**Ayacucho**](https://github.com/Rub21/Ayacucho)",
+              "",
+              "[:arrow_upper_right:](http://rub21.github.com/ayacucho/)"
+            ],
+            [
+              "2",
+              "[@lavaldi](https://github.com/lavaldi)/[**docker-critical-css**](https://github.com/lavaldi/docker-critical-css)",
+              "Critical CSS with Docker, puppeteer and critical",
+              ""
+            ],
+            [
+              "2",
+              "[@lupomontero](https://github.com/lupomontero)/[**capot**](https://github.com/lupomontero/capot)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@lizzie136](https://github.com/lizzie136)/[**flashbitacora**](https://github.com/lizzie136/flashbitacora)",
+              "ejercicio con algunos HTML5 APIs",
+              ""
+            ],
+            [
+              "2",
+              "[@lupomontero](https://github.com/lupomontero)/[**timer**](https://github.com/lupomontero/timer)",
+              "Timer is a simple coundown app useful for talks and presentations",
+              "[:arrow_upper_right:](https://timer-2d400.firebaseapp.com/)"
+            ],
+            [
+              "2",
+              "[@Wesitos](https://github.com/Wesitos)/[**matheo**](https://github.com/Wesitos/matheo)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@marti1125](https://github.com/marti1125)/[**vertical-navigation**](https://github.com/marti1125/vertical-navigation)",
+              "jQuery Plugin",
+              ""
+            ],
+            [
+              "2",
+              "[@raymicha](https://github.com/raymicha)/[**ScrollParallax**](https://github.com/raymicha/ScrollParallax)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@marti1125](https://github.com/marti1125)/[**Drawl**](https://github.com/marti1125/Drawl)",
+              "A simple drawing app for Firefox OS.",
+              "[:arrow_upper_right:](https://marketplace.firefox.com/app/drawl/)"
+            ],
+            [
+              "2",
+              "[@jansanchez](https://github.com/jansanchez)/[**jquery-plugins**](https://github.com/jansanchez/jquery-plugins)",
+              "jquery-plugins",
+              ""
+            ],
+            [
+              "2",
+              "[@marti1125](https://github.com/marti1125)/[**Mozillians_on_Twitte…**](https://github.com/marti1125/Mozillians_on_Twitter)",
+              "Mozillians on Twitter",
+              ""
+            ],
+            [
+              "2",
+              "[@jansanchez](https://github.com/jansanchez)/[**bitbucket-payload**](https://github.com/jansanchez/bitbucket-payload)",
+              "A payload reader for Bitbucket webhooks",
+              "[:arrow_upper_right:](https://www.npmjs.org/package/bitbucket-payload)"
+            ],
+            [
+              "2",
+              "[@juanpablocs](https://github.com/juanpablocs)/[**jp-router**](https://github.com/juanpablocs/jp-router)",
+              "Simple Router Controller JS",
+              ""
+            ],
+            [
+              "2",
+              "[@jansanchez](https://github.com/jansanchez)/[**api-with-loopback**](https://github.com/jansanchez/api-with-loopback)",
+              "API REST build with Loopback.io (NodeJS).",
+              ""
+            ],
+            [
+              "2",
+              "[@bjrmatos](https://github.com/bjrmatos)/[**jsreport-with-author…**](https://github.com/bjrmatos/jsreport-with-authorization-server-sample)",
+              "Sample demonstrating how to delegate authentication in jsreport to an external authorization server to support Single Sign On",
+              ""
+            ],
+            [
+              "2",
+              "[@juanpablocs](https://github.com/juanpablocs)/[**front-silex**](https://github.com/juanpablocs/front-silex)",
+              "Skeleton: Silex framework php and webpack + es6 + sass architecture frontend demo",
+              ""
+            ],
+            [
+              "2",
+              "[@android-sos](https://github.com/android-sos)/[**ionic1todos**](https://github.com/android-sos/ionic1todos)",
+              "",
+              ""
+            ]
+          ]
+        }
+      }
+    ]
   }
 }

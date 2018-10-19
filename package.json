@@ -47,7 +47,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -564,6 +565,291 @@
               "2",
               "[@android-sos](https://github.com/android-sos)/[**ionic1todos**](https://github.com/android-sos/ionic1todos)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "31",
+              "[@emedinaa](https://github.com/emedinaa)/[**android-clean-archit…**](https://github.com/emedinaa/android-clean-architecture)",
+              "Sample Android  app using clean architecture",
+              ""
+            ],
+            [
+              "22",
+              "[@emedinaa](https://github.com/emedinaa)/[**android-modular-apps**](https://github.com/emedinaa/android-modular-apps)",
+              "How build modular applications in Android ",
+              ""
+            ],
+            [
+              "22",
+              "[@jeqo](https://github.com/jeqo)/[**talk-kafka-zipkin**](https://github.com/jeqo/talk-kafka-zipkin)",
+              "Demo material from talk about tracing Kafka-based applications with Zipkin",
+              ""
+            ],
+            [
+              "21",
+              "[@emedinaa](https://github.com/emedinaa)/[**android-mvp**](https://github.com/emedinaa/android-mvp)",
+              "Ejemplo de como implementar el Patrón MVP ( Model - View - Presenter) en Android",
+              ""
+            ],
+            [
+              "13",
+              "[@jeqo](https://github.com/jeqo)/[**post-kafka-rewind-co…**](https://github.com/jeqo/post-kafka-rewind-consumer-offset)",
+              "Post: Kafka - Rewind Consumer Offset",
+              ""
+            ],
+            [
+              "10",
+              "[@jmarkstar](https://github.com/jmarkstar)/[**GpsTrackerDemo**](https://github.com/jmarkstar/GpsTrackerDemo)",
+              "This little android project is using AlarmManager and JobScheduler to get Location in an interval time.",
+              ""
+            ],
+            [
+              "10",
+              "[@jmarkstar](https://github.com/jmarkstar)/[**SQLiteNativo**](https://github.com/jmarkstar/SQLiteNativo)",
+              "Este proyecto es un App que básicamente usa la base de datos SQLite para poder crear un mantenimiento, brinda la introducción a SQLiteOpenHelper, Adapters y algunos componentes UI utiles para comenzar en android. ",
+              ""
+            ],
+            [
+              "9",
+              "[@jeqo](https://github.com/jeqo)/[**post-kafka-opentraci…**](https://github.com/jeqo/post-kafka-opentracing)",
+              "Post: Tracing Kafka Applications",
+              ""
+            ],
+            [
+              "9",
+              "[@emedinaa](https://github.com/emedinaa)/[**Android-Backendless**](https://github.com/emedinaa/Android-Backendless)",
+              "Sample Login Android + REST API Backendless",
+              ""
+            ],
+            [
+              "7",
+              "[@jmarkstar](https://github.com/jmarkstar)/[**TuristHelper**](https://github.com/jmarkstar/TuristHelper)",
+              "Demo App using foursquare API and google maps directions API.",
+              ""
+            ],
+            [
+              "5",
+              "[@emedinaa](https://github.com/emedinaa)/[**android_custom_dialo…**](https://github.com/emedinaa/android_custom_dialog_fragment)",
+              "DialogFragment  with custom layout",
+              ""
+            ],
+            [
+              "5",
+              "[@kerpie](https://github.com/kerpie)/[**Elephant**](https://github.com/kerpie/Elephant)",
+              "Annotation Processor to apply the Memoization technique in Utils-like classes",
+              ""
+            ],
+            [
+              "5",
+              "[@emedinaa](https://github.com/emedinaa)/[**Android-Multiple-Pro…**](https://github.com/emedinaa/Android-Multiple-Product-Flavors)",
+              "Android Multiple Product Flavors",
+              ""
+            ],
+            [
+              "4",
+              "[@emedinaa](https://github.com/emedinaa)/[**android_parse**](https://github.com/emedinaa/android_parse)",
+              "Migrar aplicación android de Parse a Backendless usando REST API",
+              ""
+            ],
+            [
+              "4",
+              "[@emedinaa](https://github.com/emedinaa)/[**Pokedex-Kotlin**](https://github.com/emedinaa/Pokedex-Kotlin)",
+              "Kotlin for Android Developers",
+              ""
+            ],
+            [
+              "4",
+              "[@jmarkstar](https://github.com/jmarkstar)/[**GreenDaoExamples**](https://github.com/jmarkstar/GreenDaoExamples)",
+              "This little android project is an example which containts a CRUD using ORM GreenDao, the app is using RecyclerView, CardView and SnackBar.",
+              ""
+            ],
+            [
+              "4",
+              "[@jorgenro1](https://github.com/jorgenro1)/[**Arduino_Android**](https://github.com/jorgenro1/Arduino_Android)",
+              "Esta aplicación fue elaborada como un demo para la presentacion \"Demo Code Live: Android y Arduino\" celebrada en el CTIC-UNI en el evento Arduino Day 2014. Para la comunicacion se uso un modulo Bluetooth que se conecto al Arduino",
+              ""
+            ],
+            [
+              "4",
+              "[@kerpie](https://github.com/kerpie)/[**Scrolling_Techniques…**](https://github.com/kerpie/Scrolling_Techniques_For_Android)",
+              "Scrolling techniques using the Android Design Support Library",
+              ""
+            ],
+            [
+              "4",
+              "[@emedinaa](https://github.com/emedinaa)/[**monkey**](https://github.com/emedinaa/monkey)",
+              "Librería Http basada en Volley . \"Es como usar Volley pero con sabor a retrofit\" https://developer.android.com/training/v…",
+              ""
+            ],
+            [
+              "3",
+              "[@jeqo](https://github.com/jeqo)/[**java-ee-rxjava-kafka…**](https://github.com/jeqo/java-ee-rxjava-kafka-avro)",
+              "Enabling Kafka as Event Source using Avro as Event Serializer/Deserializer and RxJava in a Java EE 7 application",
+              ""
+            ],
+            [
+              "3",
+              "[@jeqo](https://github.com/jeqo)/[**talk-kafka-messaging…**](https://github.com/jeqo/talk-kafka-messaging-logs)",
+              "Talk: From Messaging to Logs with Apache Kafka",
+              ""
+            ],
+            [
+              "3",
+              "[@jmarkstar](https://github.com/jmarkstar)/[**AndroidPaginationMvp…**](https://github.com/jmarkstar/AndroidPaginationMvpDemo)",
+              "This demo contents some lists with pagination and orientation changes support.",
+              ""
+            ],
+            [
+              "3",
+              "[@jeqo](https://github.com/jeqo)/[**talk-observing-distr…**](https://github.com/jeqo/talk-observing-distributed-systems)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@jmarkstar](https://github.com/jmarkstar)/[**ChuckNorrisMVP**](https://github.com/jmarkstar/ChuckNorrisMVP)",
+              "This demo is consuming this http://www.icndb.com/api/ API REST to get Chuck Norris jokes xD, I'm using MVP Pattern with ThreadPoolExecutor and dagger 2.",
+              ""
+            ],
+            [
+              "3",
+              "[@emedinaa](https://github.com/emedinaa)/[**sharedpreferenceshel…**](https://github.com/emedinaa/sharedpreferenceshelper)",
+              "SharedPreferencesHelper manages a local shared preferences in Android App",
+              ""
+            ],
+            [
+              "3",
+              "[@pablo-johnson](https://github.com/pablo-johnson)/[**PopularMovies**](https://github.com/pablo-johnson/PopularMovies)",
+              "Popular movies project for Udacity Android Nanodegree",
+              ""
+            ],
+            [
+              "3",
+              "[@emedinaa](https://github.com/emedinaa)/[**android_canvas_anima…**](https://github.com/emedinaa/android_canvas_animation)",
+              "Ejemplo de como crear un animación usando canvas - Android ",
+              ""
+            ],
+            [
+              "3",
+              "[@emedinaa](https://github.com/emedinaa)/[**google-io-extended-l…**](https://github.com/emedinaa/google-io-extended-lima-2014)",
+              "Ejemplo App Android L -  RecyclerView, CardView ",
+              ""
+            ],
+            [
+              "3",
+              "[@ameison](https://github.com/ameison)/[**abcdroid**](https://github.com/ameison/abcdroid)",
+              "Este repositorio contiene los demos usado en mi blog",
+              ""
+            ],
+            [
+              "3",
+              "[@jubre](https://github.com/jubre)/[**ConvertirNumeroDecim…**](https://github.com/jubre/ConvertirNumeroDecimalToRomano)",
+              "Alternativa de solucion al Coding Dojo de Conversion de Numeros Decimales a Romanos",
+              ""
+            ],
+            [
+              "3",
+              "[@jmarkstar](https://github.com/jmarkstar)/[**AndroidUploadingLong…**](https://github.com/jmarkstar/AndroidUploadingLongFiles)",
+              "Simple demo about uploading Long files using a service and retrofit 2",
+              ""
+            ],
+            [
+              "2",
+              "[@jmarkstar](https://github.com/jmarkstar)/[**CursoAndroidIntermed…**](https://github.com/jmarkstar/CursoAndroidIntermedio)",
+              "Curso de android Intermedio",
+              ""
+            ],
+            [
+              "2",
+              "[@jeqo](https://github.com/jeqo)/[**poc-akka**](https://github.com/jeqo/poc-akka)",
+              "akka proof of concept",
+              ""
+            ],
+            [
+              "2",
+              "[@kerpie](https://github.com/kerpie)/[**Camera**](https://github.com/kerpie/Camera)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jvalenciag](https://github.com/jvalenciag)/[**VaadinSpringShiroMon…**](https://github.com/jvalenciag/VaadinSpringShiroMongoDB)",
+              "Example of integration",
+              ""
+            ],
+            [
+              "2",
+              "[@jhoon](https://github.com/jhoon)/[**spotify-streamer**](https://github.com/jhoon/spotify-streamer)",
+              "Spotify Streamer, Project 2 in the Udacity Android Nanodegree ",
+              ""
+            ],
+            [
+              "2",
+              "[@necritos](https://github.com/necritos)/[**BeaconApp**](https://github.com/necritos/BeaconApp)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@emedinaa](https://github.com/emedinaa)/[**Firebase-Android**](https://github.com/emedinaa/Firebase-Android)",
+              "Firebase examples for Android",
+              ""
+            ],
+            [
+              "2",
+              "[@emedinaa](https://github.com/emedinaa)/[**android_exception_ha…**](https://github.com/emedinaa/android_exception_handler)",
+              "Global exception handling on android",
+              ""
+            ],
+            [
+              "2",
+              "[@emedinaa](https://github.com/emedinaa)/[**android_drupal**](https://github.com/emedinaa/android_drupal)",
+              "Ejemplo de android con drupal",
+              ""
+            ],
+            [
+              "2",
+              "[@emedinaa](https://github.com/emedinaa)/[**Congreso-Online-Movi…**](https://github.com/emedinaa/Congreso-Online-MovilAPp-2015)",
+              "Charla en el Congreso Online MóvilAPp 2015 -  Consumir servicios REST usando Volley y Retrofit en Android",
+              "[:arrow_upper_right:](http://escuela.it/cursos/congreso-de-desarrollo-de-apps-moviles/)"
+            ],
+            [
+              "2",
+              "[@emedinaa](https://github.com/emedinaa)/[**android-maven**](https://github.com/emedinaa/android-maven)",
+              "Ejemplo de como crear una dependencia local usando el plugin de Maven para Gradle",
+              ""
+            ],
+            [
+              "2",
+              "[@jmarkstar](https://github.com/jmarkstar)/[**ubl4sunatbinding**](https://github.com/jmarkstar/ubl4sunatbinding)",
+              "Esta libreria contiene todas las clases necesarias para construir los archivos xml que sunat solicita, contiene las clases convertidas desde los xsd usando JAXB.",
+              ""
+            ],
+            [
+              "2",
+              "[@emedinaa](https://github.com/emedinaa)/[**limaGameJam2013**](https://github.com/emedinaa/limaGameJam2013)",
+              "limaGameJam2013",
+              ""
+            ],
+            [
+              "2",
+              "[@emedinaa](https://github.com/emedinaa)/[**fragment_activity**](https://github.com/emedinaa/fragment_activity)",
+              "Ejemplo de comunicación entre fragments y activity",
               ""
             ]
           ]

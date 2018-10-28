@@ -12,7 +12,7 @@
 
  - [JavaScript](#javascript)
  - [Java](#java)
- - [C#](#c-1)
+ - [C#](#c)
 
 ### JavaScript #
 

@@ -19,7 +19,7 @@
 
 # made-in-peru
 
- [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/made-in-peru.svg)](https://www.npmjs.com/package/made-in-peru) [![Downloads](https://img.shields.io/npm/dt/made-in-peru.svg)](https://www.npmjs.com/package/made-in-peru) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+ [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/made-in-peru.svg)](https://www.npmjs.com/package/made-in-peru) [![Downloads](https://img.shields.io/npm/dt/made-in-peru.svg)](https://www.npmjs.com/package/made-in-peru) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/@johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 <a href="https://www.buymeacoffee.com/H96WwChMy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
 
@@ -60,164 +60,165 @@
 
 ### JavaScript #
 
- | :star2: | Name | Description | 🌍 |
- | --- | --- | --- | --- |
- | 114 | [@bjrmatos](https://github.com/bjrmatos)/[**electron-workers**](https://github.com/bjrmatos/electron-workers) | Run electron scripts in managed workers :rocket:  |
-113 | [@zmandel](https://github.com/zmandel)/[**Plus-for-Trello**](https://github.com/zmandel/Plus-for-Trello) | Plus for Trello chrome extension, web & mobile app | [:arrow_upper_right:](https://chrome.google.com/webstore/detail/plus-for-trello-time-trac/gjjpophepkbhejnglcmkdnncmaanojkf)
-48 | [@bjrmatos](https://github.com/bjrmatos)/[**electron-html-to**](https://github.com/bjrmatos/electron-html-to) | Highly scalable html conversion using electron workers :rocket: |
-33 | [@bjrmatos](https://github.com/bjrmatos)/[**jsreport-electron-pd…**](https://github.com/bjrmatos/jsreport-electron-pdf) | jsreport recipe which renders pdf from html using electron :rocket: |
-19 | [@jansanchez](https://github.com/jansanchez)/[**gulp-css-url-version…**](https://github.com/jansanchez/gulp-css-url-versioner) | A gulp plugin for versioning the CSS property: url |
-19 | [@jansanchez](https://github.com/jansanchez)/[**gulp-email**](https://github.com/jansanchez/gulp-email) | A gulp plugin to send emails with or without attachments from a stream of html. |
-15 | [@bjrmatos](https://github.com/bjrmatos)/[**sequelize-auto-impor…**](https://github.com/bjrmatos/sequelize-auto-import) | Import sequelize models automagically :sparkles: |
-14 | [@lupomontero](https://github.com/lupomontero)/[**horseshoe**](https://github.com/lupomontero/horseshoe) | A wrapper around nodemailer used for sending email using handlebars templates. | [:arrow_upper_right:](http://lupomontero.github.io/horseshoe/)
-14 | [@bjrmatos](https://github.com/bjrmatos)/[**json-schema-sugar**](https://github.com/bjrmatos/json-schema-sugar) | Create a JSON Schema without the pain of writing it :icecream: |
-14 | [@lupomontero](https://github.com/lupomontero)/[**node-cppspeed**](https://github.com/lupomontero/node-cppspeed) | Node.js modules speed test: C++ vs JavaScript |
-12 | [@jansanchez](https://github.com/jansanchez)/[**jscomplex**](https://github.com/jansanchez/jscomplex) | A colorful reporter for maintainability index via escomplex | [:arrow_upper_right:](https://www.npmjs.com/package/jscomplex)
-10 | [@jansanchez](https://github.com/jansanchez)/[**mydependencies**](https://github.com/jansanchez/mydependencies) | Reader of dependencies from package.json on terminal  | [:arrow_upper_right:](https://www.npmjs.com/package/mydependencies)
-10 | [@jansanchez](https://github.com/jansanchez)/[**es2015-nodejs-boiler…**](https://github.com/jansanchez/es2015-nodejs-boilerplate) | es2015 nodejs boilerplate. Includes: babel, xo, webpack and pm2 |
-10 | [@erikfloresq](https://github.com/erikfloresq)/[**skeletor**](https://github.com/erikfloresq/skeletor) | Estructura base para un proyecto basado en jade, stylus, es2015. Se usa gulp para la gestión de tareas. 💀 |
-9 | [@ghondar](https://github.com/ghondar)/[**PelisTime**](https://github.com/ghondar/PelisTime) | Mira películas y series en español en HD y full HD al instante. |
-9 | [@lupomontero](https://github.com/lupomontero)/[**couchmin**](https://github.com/lupomontero/couchmin) | A command line tool to manage multiple local and remote CouchDB servers. |
-9 | [@lupomontero](https://github.com/lupomontero)/[**jQuery.locationPicke…**](https://github.com/lupomontero/jQuery.locationPicker) |  |
-8 | [@bjrmatos](https://github.com/bjrmatos)/[**curso-reactjs**](https://github.com/bjrmatos/curso-reactjs) | Demos y Ejemplos para el curso de React.js |
-8 | [@ghondar](https://github.com/ghondar)/[**universal-redux-boil…**](https://github.com/ghondar/universal-redux-boilerplate) | Un simple boilerplate para el uso de universal js con react, redux y react-router |
-8 | [@juanpablocs](https://github.com/juanpablocs)/[**jade-php-twig**](https://github.com/juanpablocs/jade-php-twig) | jade with php inspired in twig |
-8 | [@android-sos](https://github.com/android-sos)/[**Ionic2Pokedex**](https://github.com/android-sos/Ionic2Pokedex) | Ionic 2 Pokedex |
-8 | [@jansanchez](https://github.com/jansanchez)/[**generator-hubot-tren…**](https://github.com/jansanchez/generator-hubot-trendy) | A Yeoman generator for creating your own chatbot using the Hubot framework |
-7 | [@merunga](https://github.com/merunga)/[**redux-todos**](https://github.com/merunga/redux-todos) |  |
-6 | [@juanpablocs](https://github.com/juanpablocs)/[**mvhost**](https://github.com/juanpablocs/mvhost) | create simple virtualhost for apache2 with npm |
-6 | [@marti1125](https://github.com/marti1125)/[**Earthquake**](https://github.com/marti1125/Earthquake) | List of Earthquake | [:arrow_upper_right:](earthquake.usgs.gov)
-6 | [@lupomontero](https://github.com/lupomontero)/[**couchdb-oauth**](https://github.com/lupomontero/couchdb-oauth) | A CouchDB OAuth working example in Node.js |
-5 | [@zmandel](https://github.com/zmandel)/[**htmlService-get-set-…**](https://github.com/zmandel/htmlService-get-set-data) | for Google Apps Script HtmlService. Set and get a data object on an htmlOutput |
-5 | [@lupomontero](https://github.com/lupomontero)/[**backbone-validator**](https://github.com/lupomontero/backbone-validator) |  |
-5 | [@jansanchez](https://github.com/jansanchez)/[**css-url-versioner**](https://github.com/jansanchez/css-url-versioner) | A node package for css url versioner |
-5 | [@juanpablocs](https://github.com/juanpablocs)/[**jade-atomic**](https://github.com/juanpablocs/jade-atomic) | atomic design for jade |
-5 | [@jansanchez](https://github.com/jansanchez)/[**gulp-recursive-conca…**](https://github.com/jansanchez/gulp-recursive-concat) | A Gulp recursive concatenation |
-5 | [@marti1125](https://github.com/marti1125)/[**CoderWall-Badges**](https://github.com/marti1125/CoderWall-Badges) | CoderWall-Badges |
-5 | [@lupomontero](https://github.com/lupomontero)/[**jsperu-streams**](https://github.com/lupomontero/jsperu-streams) | Notas y ejemplos para presentación en reunión de JavaScript Perú 10 Dic 2012 |
-5 | [@romelgomez](https://github.com/romelgomez)/[**jqtree-spring-mvc-ga…**](https://github.com/romelgomez/jqtree-spring-mvc-gae-example) | JqTree, Spring MVC, GoogleAppEngine; Example: |
-5 | [@jansanchez](https://github.com/jansanchez)/[**jade-examples**](https://github.com/jansanchez/jade-examples) | Jade Examples |
-5 | [@carloshs92](https://github.com/carloshs92)/[**mocha-tutorial-prime…**](https://github.com/carloshs92/mocha-tutorial-primeros-pasos) | Ejercicio demo para el uso de Mocha |
-5 | [@marti1125](https://github.com/marti1125)/[**SubeAlMetro**](https://github.com/marti1125/SubeAlMetro) | Metro de Lima |
-4 | [@bjrmatos](https://github.com/bjrmatos)/[**chrome-page-eval**](https://github.com/bjrmatos/chrome-page-eval) | Evaluate a script function on a page with Chrome 🔮 |
-4 | [@bjrmatos](https://github.com/bjrmatos)/[**jsreport-pug**](https://github.com/bjrmatos/jsreport-pug) | Use pug templating engine in jsreport | [:arrow_upper_right:](https://jsreport.net/)
-4 | [@jansanchez](https://github.com/jansanchez)/[**npmrun**](https://github.com/jansanchez/npmrun) | nr, an alias for `npm run` |
-4 | [@merunga](https://github.com/merunga)/[**hablemosquechua**](https://github.com/merunga/hablemosquechua) | experimento tecno-socio-cultural restableciendo conexiones...  (beta) en desarrollo por @marianocrowe @sankaypillo @kikomayorga @escuelab @runasimipi | [:arrow_upper_right:](robot.hablemosquechua.org)
-4 | [@lavaldi](https://github.com/lavaldi)/[**users-graphql-exampl…**](https://github.com/lavaldi/users-graphql-example) | A small example using graphql |
-4 | [@merunga](https://github.com/merunga)/[**opendata-rios-peru**](https://github.com/merunga/opendata-rios-peru) | Mapa hidrografico en openlayers del Peru |
-4 | [@jansanchez](https://github.com/jansanchez)/[**didactic-react**](https://github.com/jansanchez/didactic-react) | didactic react |
-4 | [@jansanchez](https://github.com/jansanchez)/[**redmine-issues**](https://github.com/jansanchez/redmine-issues) | Redmine Issues Rest API Client for node.js |
-4 | [@juaneladio](https://github.com/juaneladio)/[**Metropolitano-Mobile**](https://github.com/juaneladio/Metropolitano-Mobile) | [OBSOLETO: Ver https://github.com/juaneladio/metropolit… ] Proyecto en JQuery Mobile para construir una web móvil con información del servicio de transporte Metropolitano en Lima, Perú. |
-4 | [@lupomontero](https://github.com/lupomontero)/[**banoffee**](https://github.com/lupomontero/banoffee) |  |
-3 | [@erikfloresq](https://github.com/erikfloresq)/[**servo**](https://github.com/erikfloresq/servo) | servo is my server dummy 🦄 |
-3 | [@jerson](https://github.com/jerson)/[**raml-js-webservice-g…**](https://github.com/jerson/raml-js-webservice-generator-old) | RAML webservice generator .. is still in development!!  |
-3 | [@lupomontero](https://github.com/lupomontero)/[**jQuery.suggest**](https://github.com/lupomontero/jQuery.suggest) |  |
-3 | [@marti1125](https://github.com/marti1125)/[**paint**](https://github.com/marti1125/paint) | paint |
-3 | [@ghondar](https://github.com/ghondar)/[**lowdb-recursive**](https://github.com/ghondar/lowdb-recursive) | Flat JSON file database recursive |
-3 | [@jansanchez](https://github.com/jansanchez)/[**pageres-demo**](https://github.com/jansanchez/pageres-demo) | Demo del uso de pageres con Gulp.js |
-3 | [@jansanchez](https://github.com/jansanchez)/[**gulp-primeros-pasos**](https://github.com/jansanchez/gulp-primeros-pasos) | Primeros pasos con gulp |
-3 | [@ghondar](https://github.com/ghondar)/[**PelisTime-Mobile**](https://github.com/ghondar/PelisTime-Mobile) | Mira películas y series en español en HD y full HD al instante desde tu celular. |
-3 | [@jansanchez](https://github.com/jansanchez)/[**compresor-de-imagene…**](https://github.com/jansanchez/compresor-de-imagenes) | Compresor de imágenes con Gulp |
-3 | [@alejandrogarciasalas](https://github.com/alejandrogarciasalas)/[**Google-docs-clone**](https://github.com/alejandrogarciasalas/Google-docs-clone) | A simple google docs clone made with socket.io |
-2 | [@bjrmatos](https://github.com/bjrmatos)/[**grunt-external-confi…**](https://github.com/bjrmatos/grunt-external-config) | Example of split grunt config file in multiple files |
-2 | [@Rub21](https://github.com/Rub21)/[**tofix-cli**](https://github.com/Rub21/tofix-cli) |  |
-2 | [@Rub21](https://github.com/Rub21)/[**openhuamanga**](https://github.com/Rub21/openhuamanga) | Primera aplicacion  web para proyecto Open Data de la Municipalidad de Humanga |
-2 | [@Rub21](https://github.com/Rub21)/[**registro-ayacucho**](https://github.com/Rub21/registro-ayacucho) |  | [:arrow_upper_right:](http://rub21.github.com/registro-ayacucho/)
-2 | [@Rub21](https://github.com/Rub21)/[**osrm-local-server**](https://github.com/Rub21/osrm-local-server) |  |
-2 | [@merunga](https://github.com/merunga)/[**laboratoria-redux**](https://github.com/merunga/laboratoria-redux) |  |
-2 | [@romelgomez](https://github.com/romelgomez)/[**jqtree-angularjs-fir…**](https://github.com/romelgomez/jqtree-angularjs-firebase-example) |  |
-2 | [@romelgomez](https://github.com/romelgomez)/[**angular-firebase-log…**](https://github.com/romelgomez/angular-firebase-login-example) |  |
-2 | [@ghondar](https://github.com/ghondar)/[**react-create-app-red…**](https://github.com/ghondar/react-create-app-redux-boilerplate) |  |
-2 | [@erikfloresq](https://github.com/erikfloresq)/[**react101**](https://github.com/erikfloresq/react101) | playing and learning with react :D |
-2 | [@Rub21](https://github.com/Rub21)/[**Ayacucho**](https://github.com/Rub21/Ayacucho) |  | [:arrow_upper_right:](http://rub21.github.com/ayacucho/)
-2 | [@lavaldi](https://github.com/lavaldi)/[**docker-critical-css**](https://github.com/lavaldi/docker-critical-css) | Critical CSS with Docker, puppeteer and critical |
-2 | [@lupomontero](https://github.com/lupomontero)/[**capot**](https://github.com/lupomontero/capot) |  |
-2 | [@lizzie136](https://github.com/lizzie136)/[**flashbitacora**](https://github.com/lizzie136/flashbitacora) | ejercicio con algunos HTML5 APIs |
-2 | [@lupomontero](https://github.com/lupomontero)/[**timer**](https://github.com/lupomontero/timer) | Timer is a simple coundown app useful for talks and presentations | [:arrow_upper_right:](https://timer-2d400.firebaseapp.com/)
-2 | [@Wesitos](https://github.com/Wesitos)/[**matheo**](https://github.com/Wesitos/matheo) |  |
-2 | [@marti1125](https://github.com/marti1125)/[**vertical-navigation**](https://github.com/marti1125/vertical-navigation) | jQuery Plugin |
-2 | [@raymicha](https://github.com/raymicha)/[**ScrollParallax**](https://github.com/raymicha/ScrollParallax) |  |
-2 | [@marti1125](https://github.com/marti1125)/[**Drawl**](https://github.com/marti1125/Drawl) | A simple drawing app for Firefox OS. | [:arrow_upper_right:](https://marketplace.firefox.com/app/drawl/)
-2 | [@jansanchez](https://github.com/jansanchez)/[**jquery-plugins**](https://github.com/jansanchez/jquery-plugins) | jquery-plugins |
-2 | [@marti1125](https://github.com/marti1125)/[**Mozillians_on_Twitte…**](https://github.com/marti1125/Mozillians_on_Twitter) | Mozillians on Twitter |
-2 | [@jansanchez](https://github.com/jansanchez)/[**bitbucket-payload**](https://github.com/jansanchez/bitbucket-payload) | A payload reader for Bitbucket webhooks | [:arrow_upper_right:](https://www.npmjs.org/package/bitbucket-payload)
-2 | [@juanpablocs](https://github.com/juanpablocs)/[**jp-router**](https://github.com/juanpablocs/jp-router) | Simple Router Controller JS |
-2 | [@jansanchez](https://github.com/jansanchez)/[**api-with-loopback**](https://github.com/jansanchez/api-with-loopback) | API REST build with Loopback.io (NodeJS). |
-2 | [@bjrmatos](https://github.com/bjrmatos)/[**jsreport-with-author…**](https://github.com/bjrmatos/jsreport-with-authorization-server-sample) | Sample demonstrating how to delegate authentication in jsreport to an external authorization server to support Single Sign On |
-2 | [@juanpablocs](https://github.com/juanpablocs)/[**front-silex**](https://github.com/juanpablocs/front-silex) | Skeleton: Silex framework php and webpack + es6 + sass architecture frontend demo |
-2 | [@android-sos](https://github.com/android-sos)/[**ionic1todos**](https://github.com/android-sos/ionic1todos) |  |  |
+| :star2: | Name | Description | 🌍  |
+| ------- | ---- | ----------- | --- |
+| 114 | [@bjrmatos](https://github.com/bjrmatos)/[**electron-workers**](https://github.com/bjrmatos/electron-workers) | Run electron scripts in managed workers :rocket: |  |
+| 113 | [@zmandel](https://github.com/zmandel)/[**Plus-for-Trello**](https://github.com/zmandel/Plus-for-Trello) | Plus for Trello chrome extension, web & mobile app | [:arrow_upper_right:](https://chrome.google.com/webstore/detail/plus-for-trello-time-trac/gjjpophepkbhejnglcmkdnncmaanojkf) |
+| 48 | [@bjrmatos](https://github.com/bjrmatos)/[**electron-html-to**](https://github.com/bjrmatos/electron-html-to) | Highly scalable html conversion using electron workers :rocket: |  |
+| 33 | [@bjrmatos](https://github.com/bjrmatos)/[**jsreport-electron-pd…**](https://github.com/bjrmatos/jsreport-electron-pdf) | jsreport recipe which renders pdf from html using electron :rocket: |  |
+| 19 | [@jansanchez](https://github.com/jansanchez)/[**gulp-css-url-version…**](https://github.com/jansanchez/gulp-css-url-versioner) | A gulp plugin for versioning the CSS property: url |  |
+| 19 | [@jansanchez](https://github.com/jansanchez)/[**gulp-email**](https://github.com/jansanchez/gulp-email) | A gulp plugin to send emails with or without attachments from a stream of html. |  |
+| 15 | [@bjrmatos](https://github.com/bjrmatos)/[**sequelize-auto-impor…**](https://github.com/bjrmatos/sequelize-auto-import) | Import sequelize models automagically :sparkles: |  |
+| 14 | [@lupomontero](https://github.com/lupomontero)/[**horseshoe**](https://github.com/lupomontero/horseshoe) | A wrapper around nodemailer used for sending email using handlebars templates. | [:arrow_upper_right:](http://lupomontero.github.io/horseshoe/) |
+| 14 | [@bjrmatos](https://github.com/bjrmatos)/[**json-schema-sugar**](https://github.com/bjrmatos/json-schema-sugar) | Create a JSON Schema without the pain of writing it :icecream: |  |
+| 14 | [@lupomontero](https://github.com/lupomontero)/[**node-cppspeed**](https://github.com/lupomontero/node-cppspeed) | Node.js modules speed test: C++ vs JavaScript |  |
+| 12 | [@jansanchez](https://github.com/jansanchez)/[**jscomplex**](https://github.com/jansanchez/jscomplex) | A colorful reporter for maintainability index via escomplex | [:arrow_upper_right:](https://www.npmjs.com/package/jscomplex) |
+| 10 | [@jansanchez](https://github.com/jansanchez)/[**mydependencies**](https://github.com/jansanchez/mydependencies) | Reader of dependencies from package.json on terminal | [:arrow_upper_right:](https://www.npmjs.com/package/mydependencies) |
+| 10 | [@jansanchez](https://github.com/jansanchez)/[**es2015-nodejs-boiler…**](https://github.com/jansanchez/es2015-nodejs-boilerplate) | es2015 nodejs boilerplate. Includes: babel, xo, webpack and pm2 |  |
+| 10 | [@erikfloresq](https://github.com/erikfloresq)/[**skeletor**](https://github.com/erikfloresq/skeletor) | Estructura base para un proyecto basado en jade, stylus, es2015. Se usa gulp para la gestión de tareas. 💀 |  |
+| 9 | [@ghondar](https://github.com/ghondar)/[**PelisTime**](https://github.com/ghondar/PelisTime) | Mira películas y series en español en HD y full HD al instante. |  |
+| 9 | [@lupomontero](https://github.com/lupomontero)/[**couchmin**](https://github.com/lupomontero/couchmin) | A command line tool to manage multiple local and remote CouchDB servers. |  |
+| 9 | [@lupomontero](https://github.com/lupomontero)/[**jQuery.locationPicke…**](https://github.com/lupomontero/jQuery.locationPicker) |  |  |
+| 8 | [@bjrmatos](https://github.com/bjrmatos)/[**curso-reactjs**](https://github.com/bjrmatos/curso-reactjs) | Demos y Ejemplos para el curso de React.js |  |
+| 8 | [@ghondar](https://github.com/ghondar)/[**universal-redux-boil…**](https://github.com/ghondar/universal-redux-boilerplate) | Un simple boilerplate para el uso de universal js con react, redux y react-router |  |
+| 8 | [@juanpablocs](https://github.com/juanpablocs)/[**jade-php-twig**](https://github.com/juanpablocs/jade-php-twig) | jade with php inspired in twig |  |
+| 8 | [@android-sos](https://github.com/android-sos)/[**Ionic2Pokedex**](https://github.com/android-sos/Ionic2Pokedex) | Ionic 2 Pokedex |  |
+| 8 | [@jansanchez](https://github.com/jansanchez)/[**generator-hubot-tren…**](https://github.com/jansanchez/generator-hubot-trendy) | A Yeoman generator for creating your own chatbot using the Hubot framework |  |
+| 7 | [@merunga](https://github.com/merunga)/[**redux-todos**](https://github.com/merunga/redux-todos) |  |  |
+| 6 | [@juanpablocs](https://github.com/juanpablocs)/[**mvhost**](https://github.com/juanpablocs/mvhost) | create simple virtualhost for apache2 with npm |  |
+| 6 | [@marti1125](https://github.com/marti1125)/[**Earthquake**](https://github.com/marti1125/Earthquake) | List of Earthquake | [:arrow_upper_right:](earthquake.usgs.gov) |
+| 6 | [@lupomontero](https://github.com/lupomontero)/[**couchdb-oauth**](https://github.com/lupomontero/couchdb-oauth) | A CouchDB OAuth working example in Node.js |  |
+| 5 | [@zmandel](https://github.com/zmandel)/[**htmlService-get-set-…**](https://github.com/zmandel/htmlService-get-set-data) | for Google Apps Script HtmlService. Set and get a data object on an htmlOutput |  |
+| 5 | [@lupomontero](https://github.com/lupomontero)/[**backbone-validator**](https://github.com/lupomontero/backbone-validator) |  |  |
+| 5 | [@jansanchez](https://github.com/jansanchez)/[**css-url-versioner**](https://github.com/jansanchez/css-url-versioner) | A node package for css url versioner |  |
+| 5 | [@juanpablocs](https://github.com/juanpablocs)/[**jade-atomic**](https://github.com/juanpablocs/jade-atomic) | atomic design for jade |  |
+| 5 | [@jansanchez](https://github.com/jansanchez)/[**gulp-recursive-conca…**](https://github.com/jansanchez/gulp-recursive-concat) | A Gulp recursive concatenation |  |
+| 5 | [@marti1125](https://github.com/marti1125)/[**CoderWall-Badges**](https://github.com/marti1125/CoderWall-Badges) | CoderWall-Badges |  |
+| 5 | [@lupomontero](https://github.com/lupomontero)/[**jsperu-streams**](https://github.com/lupomontero/jsperu-streams) | Notas y ejemplos para presentación en reunión de JavaScript Perú 10 Dic 2012 |  |
+| 5 | [@romelgomez](https://github.com/romelgomez)/[**jqtree-spring-mvc-ga…**](https://github.com/romelgomez/jqtree-spring-mvc-gae-example) | JqTree, Spring MVC, GoogleAppEngine; Example: |  |
+| 5 | [@jansanchez](https://github.com/jansanchez)/[**jade-examples**](https://github.com/jansanchez/jade-examples) | Jade Examples |  |
+| 5 | [@carloshs92](https://github.com/carloshs92)/[**mocha-tutorial-prime…**](https://github.com/carloshs92/mocha-tutorial-primeros-pasos) | Ejercicio demo para el uso de Mocha |  |
+| 5 | [@marti1125](https://github.com/marti1125)/[**SubeAlMetro**](https://github.com/marti1125/SubeAlMetro) | Metro de Lima |  |
+| 4 | [@bjrmatos](https://github.com/bjrmatos)/[**chrome-page-eval**](https://github.com/bjrmatos/chrome-page-eval) | Evaluate a script function on a page with Chrome 🔮 |  |
+| 4 | [@bjrmatos](https://github.com/bjrmatos)/[**jsreport-pug**](https://github.com/bjrmatos/jsreport-pug) | Use pug templating engine in jsreport | [:arrow_upper_right:](https://jsreport.net/) |
+| 4 | [@jansanchez](https://github.com/jansanchez)/[**npmrun**](https://github.com/jansanchez/npmrun) | nr, an alias for `npm run` |  |
+| 4 | [@merunga](https://github.com/merunga)/[**hablemosquechua**](https://github.com/merunga/hablemosquechua) | experimento tecno-socio-cultural restableciendo conexiones...  (beta) en desarrollo por @marianocrowe @sankaypillo @kikomayorga @escuelab @runasimipi | [:arrow_upper_right:](robot.hablemosquechua.org) |
+| 4 | [@lavaldi](https://github.com/lavaldi)/[**users-graphql-exampl…**](https://github.com/lavaldi/users-graphql-example) | A small example using graphql |  |
+| 4 | [@merunga](https://github.com/merunga)/[**opendata-rios-peru**](https://github.com/merunga/opendata-rios-peru) | Mapa hidrografico en openlayers del Peru |  |
+| 4 | [@jansanchez](https://github.com/jansanchez)/[**didactic-react**](https://github.com/jansanchez/didactic-react) | didactic react |  |
+| 4 | [@jansanchez](https://github.com/jansanchez)/[**redmine-issues**](https://github.com/jansanchez/redmine-issues) | Redmine Issues Rest API Client for node.js |  |
+| 4 | [@juaneladio](https://github.com/juaneladio)/[**Metropolitano-Mobile**](https://github.com/juaneladio/Metropolitano-Mobile) | [OBSOLETO: Ver https://github.com/juaneladio/metropolit… ] Proyecto en JQuery Mobile para construir una web móvil con información del servicio de transporte Metropolitano en Lima, Perú. |  |
+| 4 | [@lupomontero](https://github.com/lupomontero)/[**banoffee**](https://github.com/lupomontero/banoffee) |  |  |
+| 3 | [@erikfloresq](https://github.com/erikfloresq)/[**servo**](https://github.com/erikfloresq/servo) | servo is my server dummy 🦄 |  |
+| 3 | [@jerson](https://github.com/jerson)/[**raml-js-webservice-g…**](https://github.com/jerson/raml-js-webservice-generator-old) | RAML webservice generator .. is still in development!! |  |
+| 3 | [@lupomontero](https://github.com/lupomontero)/[**jQuery.suggest**](https://github.com/lupomontero/jQuery.suggest) |  |  |
+| 3 | [@marti1125](https://github.com/marti1125)/[**paint**](https://github.com/marti1125/paint) | paint |  |
+| 3 | [@ghondar](https://github.com/ghondar)/[**lowdb-recursive**](https://github.com/ghondar/lowdb-recursive) | Flat JSON file database recursive |  |
+| 3 | [@jansanchez](https://github.com/jansanchez)/[**pageres-demo**](https://github.com/jansanchez/pageres-demo) | Demo del uso de pageres con Gulp.js |  |
+| 3 | [@jansanchez](https://github.com/jansanchez)/[**gulp-primeros-pasos**](https://github.com/jansanchez/gulp-primeros-pasos) | Primeros pasos con gulp |  |
+| 3 | [@ghondar](https://github.com/ghondar)/[**PelisTime-Mobile**](https://github.com/ghondar/PelisTime-Mobile) | Mira películas y series en español en HD y full HD al instante desde tu celular. |  |
+| 3 | [@jansanchez](https://github.com/jansanchez)/[**compresor-de-imagene…**](https://github.com/jansanchez/compresor-de-imagenes) | Compresor de imágenes con Gulp |  |
+| 3 | [@alejandrogarciasalas](https://github.com/alejandrogarciasalas)/[**Google-docs-clone**](https://github.com/alejandrogarciasalas/Google-docs-clone) | A simple google docs clone made with socket.io |  |
+| 2 | [@bjrmatos](https://github.com/bjrmatos)/[**grunt-external-confi…**](https://github.com/bjrmatos/grunt-external-config) | Example of split grunt config file in multiple files |  |
+| 2 | [@Rub21](https://github.com/Rub21)/[**tofix-cli**](https://github.com/Rub21/tofix-cli) |  |  |
+| 2 | [@Rub21](https://github.com/Rub21)/[**openhuamanga**](https://github.com/Rub21/openhuamanga) | Primera aplicacion  web para proyecto Open Data de la Municipalidad de Humanga |  |
+| 2 | [@Rub21](https://github.com/Rub21)/[**registro-ayacucho**](https://github.com/Rub21/registro-ayacucho) |  | [:arrow_upper_right:](http://rub21.github.com/registro-ayacucho/) |
+| 2 | [@Rub21](https://github.com/Rub21)/[**osrm-local-server**](https://github.com/Rub21/osrm-local-server) |  |  |
+| 2 | [@merunga](https://github.com/merunga)/[**laboratoria-redux**](https://github.com/merunga/laboratoria-redux) |  |  |
+| 2 | [@romelgomez](https://github.com/romelgomez)/[**jqtree-angularjs-fir…**](https://github.com/romelgomez/jqtree-angularjs-firebase-example) |  |  |
+| 2 | [@romelgomez](https://github.com/romelgomez)/[**angular-firebase-log…**](https://github.com/romelgomez/angular-firebase-login-example) |  |  |
+| 2 | [@ghondar](https://github.com/ghondar)/[**react-create-app-red…**](https://github.com/ghondar/react-create-app-redux-boilerplate) |  |  |
+| 2 | [@erikfloresq](https://github.com/erikfloresq)/[**react101**](https://github.com/erikfloresq/react101) | playing and learning with react :D |  |
+| 2 | [@Rub21](https://github.com/Rub21)/[**Ayacucho**](https://github.com/Rub21/Ayacucho) |  | [:arrow_upper_right:](http://rub21.github.com/ayacucho/) |
+| 2 | [@lavaldi](https://github.com/lavaldi)/[**docker-critical-css**](https://github.com/lavaldi/docker-critical-css) | Critical CSS with Docker, puppeteer and critical |  |
+| 2 | [@lupomontero](https://github.com/lupomontero)/[**capot**](https://github.com/lupomontero/capot) |  |  |
+| 2 | [@lizzie136](https://github.com/lizzie136)/[**flashbitacora**](https://github.com/lizzie136/flashbitacora) | ejercicio con algunos HTML5 APIs |  |
+| 2 | [@lupomontero](https://github.com/lupomontero)/[**timer**](https://github.com/lupomontero/timer) | Timer is a simple coundown app useful for talks and presentations | [:arrow_upper_right:](https://timer-2d400.firebaseapp.com/) |
+| 2 | [@Wesitos](https://github.com/Wesitos)/[**matheo**](https://github.com/Wesitos/matheo) |  |  |
+| 2 | [@marti1125](https://github.com/marti1125)/[**vertical-navigation**](https://github.com/marti1125/vertical-navigation) | jQuery Plugin |  |
+| 2 | [@raymicha](https://github.com/raymicha)/[**ScrollParallax**](https://github.com/raymicha/ScrollParallax) |  |  |
+| 2 | [@marti1125](https://github.com/marti1125)/[**Drawl**](https://github.com/marti1125/Drawl) | A simple drawing app for Firefox OS. | [:arrow_upper_right:](https://marketplace.firefox.com/app/drawl/) |
+| 2 | [@jansanchez](https://github.com/jansanchez)/[**jquery-plugins**](https://github.com/jansanchez/jquery-plugins) | jquery-plugins |  |
+| 2 | [@marti1125](https://github.com/marti1125)/[**Mozillians_on_Twitte…**](https://github.com/marti1125/Mozillians_on_Twitter) | Mozillians on Twitter |  |
+| 2 | [@jansanchez](https://github.com/jansanchez)/[**bitbucket-payload**](https://github.com/jansanchez/bitbucket-payload) | A payload reader for Bitbucket webhooks | [:arrow_upper_right:](https://www.npmjs.org/package/bitbucket-payload) |
+| 2 | [@juanpablocs](https://github.com/juanpablocs)/[**jp-router**](https://github.com/juanpablocs/jp-router) | Simple Router Controller JS |  |
+| 2 | [@jansanchez](https://github.com/jansanchez)/[**api-with-loopback**](https://github.com/jansanchez/api-with-loopback) | API REST build with Loopback.io (NodeJS). |  |
+| 2 | [@bjrmatos](https://github.com/bjrmatos)/[**jsreport-with-author…**](https://github.com/bjrmatos/jsreport-with-authorization-server-sample) | Sample demonstrating how to delegate authentication in jsreport to an external authorization server to support Single Sign On |  |
+| 2 | [@juanpablocs](https://github.com/juanpablocs)/[**front-silex**](https://github.com/juanpablocs/front-silex) | Skeleton: Silex framework php and webpack + es6 + sass architecture frontend demo |  |
+| 2 | [@android-sos](https://github.com/android-sos)/[**ionic1todos**](https://github.com/android-sos/ionic1todos) |  |  |
 
 ### Java #
 
- | :star2: | Name | Description | 🌍 |
- | --- | --- | --- | --- |
- | 31 | [@emedinaa](https://github.com/emedinaa)/[**android-clean-archit…**](https://github.com/emedinaa/android-clean-architecture) | Sample Android  app using clean architecture |
-22 | [@emedinaa](https://github.com/emedinaa)/[**android-modular-apps**](https://github.com/emedinaa/android-modular-apps) | How build modular applications in Android  |
-22 | [@jeqo](https://github.com/jeqo)/[**talk-kafka-zipkin**](https://github.com/jeqo/talk-kafka-zipkin) | Demo material from talk about tracing Kafka-based applications with Zipkin |
-21 | [@emedinaa](https://github.com/emedinaa)/[**android-mvp**](https://github.com/emedinaa/android-mvp) | Ejemplo de como implementar el Patrón MVP ( Model - View - Presenter) en Android |
-13 | [@jeqo](https://github.com/jeqo)/[**post-kafka-rewind-co…**](https://github.com/jeqo/post-kafka-rewind-consumer-offset) | Post: Kafka - Rewind Consumer Offset |
-10 | [@jmarkstar](https://github.com/jmarkstar)/[**GpsTrackerDemo**](https://github.com/jmarkstar/GpsTrackerDemo) | This little android project is using AlarmManager and JobScheduler to get Location in an interval time. |
-10 | [@jmarkstar](https://github.com/jmarkstar)/[**SQLiteNativo**](https://github.com/jmarkstar/SQLiteNativo) | Este proyecto es un App que básicamente usa la base de datos SQLite para poder crear un mantenimiento, brinda la introducción a SQLiteOpenHelper, Adapters y algunos componentes UI utiles para comenzar en android.  |
-9 | [@jeqo](https://github.com/jeqo)/[**post-kafka-opentraci…**](https://github.com/jeqo/post-kafka-opentracing) | Post: Tracing Kafka Applications |
-9 | [@emedinaa](https://github.com/emedinaa)/[**Android-Backendless**](https://github.com/emedinaa/Android-Backendless) | Sample Login Android + REST API Backendless |
-7 | [@jmarkstar](https://github.com/jmarkstar)/[**TuristHelper**](https://github.com/jmarkstar/TuristHelper) | Demo App using foursquare API and google maps directions API. |
-5 | [@emedinaa](https://github.com/emedinaa)/[**android_custom_dialo…**](https://github.com/emedinaa/android_custom_dialog_fragment) | DialogFragment  with custom layout |
-5 | [@kerpie](https://github.com/kerpie)/[**Elephant**](https://github.com/kerpie/Elephant) | Annotation Processor to apply the Memoization technique in Utils-like classes |
-5 | [@emedinaa](https://github.com/emedinaa)/[**Android-Multiple-Pro…**](https://github.com/emedinaa/Android-Multiple-Product-Flavors) | Android Multiple Product Flavors |
-4 | [@emedinaa](https://github.com/emedinaa)/[**android_parse**](https://github.com/emedinaa/android_parse) | Migrar aplicación android de Parse a Backendless usando REST API |
-4 | [@emedinaa](https://github.com/emedinaa)/[**Pokedex-Kotlin**](https://github.com/emedinaa/Pokedex-Kotlin) | Kotlin for Android Developers |
-4 | [@jmarkstar](https://github.com/jmarkstar)/[**GreenDaoExamples**](https://github.com/jmarkstar/GreenDaoExamples) | This little android project is an example which containts a CRUD using ORM GreenDao, the app is using RecyclerView, CardView and SnackBar. |
-4 | [@jorgenro1](https://github.com/jorgenro1)/[**Arduino_Android**](https://github.com/jorgenro1/Arduino_Android) | Esta aplicación fue elaborada como un demo para la presentacion "Demo Code Live: Android y Arduino" celebrada en el CTIC-UNI en el evento Arduino Day 2014. Para la comunicacion se uso un modulo Bluetooth que se conecto al Arduino |
-4 | [@kerpie](https://github.com/kerpie)/[**Scrolling_Techniques…**](https://github.com/kerpie/Scrolling_Techniques_For_Android) | Scrolling techniques using the Android Design Support Library |
-4 | [@emedinaa](https://github.com/emedinaa)/[**monkey**](https://github.com/emedinaa/monkey) | Librería Http basada en Volley . "Es como usar Volley pero con sabor a retrofit" https://developer.android.com/training/v… |
-3 | [@jeqo](https://github.com/jeqo)/[**java-ee-rxjava-kafka…**](https://github.com/jeqo/java-ee-rxjava-kafka-avro) | Enabling Kafka as Event Source using Avro as Event Serializer/Deserializer and RxJava in a Java EE 7 application |
-3 | [@jeqo](https://github.com/jeqo)/[**talk-kafka-messaging…**](https://github.com/jeqo/talk-kafka-messaging-logs) | Talk: From Messaging to Logs with Apache Kafka |
-3 | [@jmarkstar](https://github.com/jmarkstar)/[**AndroidPaginationMvp…**](https://github.com/jmarkstar/AndroidPaginationMvpDemo) | This demo contents some lists with pagination and orientation changes support. |
-3 | [@jeqo](https://github.com/jeqo)/[**talk-observing-distr…**](https://github.com/jeqo/talk-observing-distributed-systems) |  |
-3 | [@jmarkstar](https://github.com/jmarkstar)/[**ChuckNorrisMVP**](https://github.com/jmarkstar/ChuckNorrisMVP) | This demo is consuming this http://www.icndb.com/api/ API REST to get Chuck Norris jokes xD, I'm using MVP Pattern with ThreadPoolExecutor and dagger 2. |
-3 | [@emedinaa](https://github.com/emedinaa)/[**sharedpreferenceshel…**](https://github.com/emedinaa/sharedpreferenceshelper) | SharedPreferencesHelper manages a local shared preferences in Android App |
-3 | [@pablo-johnson](https://github.com/pablo-johnson)/[**PopularMovies**](https://github.com/pablo-johnson/PopularMovies) | Popular movies project for Udacity Android Nanodegree |
-3 | [@emedinaa](https://github.com/emedinaa)/[**android_canvas_anima…**](https://github.com/emedinaa/android_canvas_animation) | Ejemplo de como crear un animación usando canvas - Android  |
-3 | [@emedinaa](https://github.com/emedinaa)/[**google-io-extended-l…**](https://github.com/emedinaa/google-io-extended-lima-2014) | Ejemplo App Android L -  RecyclerView, CardView  |
-3 | [@ameison](https://github.com/ameison)/[**abcdroid**](https://github.com/ameison/abcdroid) | Este repositorio contiene los demos usado en mi blog |
-3 | [@jubre](https://github.com/jubre)/[**ConvertirNumeroDecim…**](https://github.com/jubre/ConvertirNumeroDecimalToRomano) | Alternativa de solucion al Coding Dojo de Conversion de Numeros Decimales a Romanos |
-3 | [@jmarkstar](https://github.com/jmarkstar)/[**AndroidUploadingLong…**](https://github.com/jmarkstar/AndroidUploadingLongFiles) | Simple demo about uploading Long files using a service and retrofit 2 |
-2 | [@jmarkstar](https://github.com/jmarkstar)/[**CursoAndroidIntermed…**](https://github.com/jmarkstar/CursoAndroidIntermedio) | Curso de android Intermedio |
-2 | [@jeqo](https://github.com/jeqo)/[**poc-akka**](https://github.com/jeqo/poc-akka) | akka proof of concept |
-2 | [@kerpie](https://github.com/kerpie)/[**Camera**](https://github.com/kerpie/Camera) |  |
-2 | [@jvalenciag](https://github.com/jvalenciag)/[**VaadinSpringShiroMon…**](https://github.com/jvalenciag/VaadinSpringShiroMongoDB) | Example of integration |
-2 | [@jhoon](https://github.com/jhoon)/[**spotify-streamer**](https://github.com/jhoon/spotify-streamer) | Spotify Streamer, Project 2 in the Udacity Android Nanodegree  |
-2 | [@necritos](https://github.com/necritos)/[**BeaconApp**](https://github.com/necritos/BeaconApp) |  |
-2 | [@emedinaa](https://github.com/emedinaa)/[**Firebase-Android**](https://github.com/emedinaa/Firebase-Android) | Firebase examples for Android |
-2 | [@emedinaa](https://github.com/emedinaa)/[**android_exception_ha…**](https://github.com/emedinaa/android_exception_handler) | Global exception handling on android |
-2 | [@emedinaa](https://github.com/emedinaa)/[**android_drupal**](https://github.com/emedinaa/android_drupal) | Ejemplo de android con drupal |
-2 | [@emedinaa](https://github.com/emedinaa)/[**Congreso-Online-Movi…**](https://github.com/emedinaa/Congreso-Online-MovilAPp-2015) | Charla en el Congreso Online MóvilAPp 2015 -  Consumir servicios REST usando Volley y Retrofit en Android | [:arrow_upper_right:](http://escuela.it/cursos/congreso-de-desarrollo-de-apps-moviles/)
-2 | [@emedinaa](https://github.com/emedinaa)/[**android-maven**](https://github.com/emedinaa/android-maven) | Ejemplo de como crear una dependencia local usando el plugin de Maven para Gradle |
-2 | [@jmarkstar](https://github.com/jmarkstar)/[**ubl4sunatbinding**](https://github.com/jmarkstar/ubl4sunatbinding) | Esta libreria contiene todas las clases necesarias para construir los archivos xml que sunat solicita, contiene las clases convertidas desde los xsd usando JAXB. |
-2 | [@emedinaa](https://github.com/emedinaa)/[**limaGameJam2013**](https://github.com/emedinaa/limaGameJam2013) | limaGameJam2013 |
-2 | [@emedinaa](https://github.com/emedinaa)/[**fragment_activity**](https://github.com/emedinaa/fragment_activity) | Ejemplo de comunicación entre fragments y activity |  |
+| :star2: | Name | Description | 🌍  |
+| ------- | ---- | ----------- | --- |
+| 31 | [@emedinaa](https://github.com/emedinaa)/[**android-clean-archit…**](https://github.com/emedinaa/android-clean-architecture) | Sample Android  app using clean architecture |  |
+| 22 | [@emedinaa](https://github.com/emedinaa)/[**android-modular-apps**](https://github.com/emedinaa/android-modular-apps) | How build modular applications in Android |  |
+| 22 | [@jeqo](https://github.com/jeqo)/[**talk-kafka-zipkin**](https://github.com/jeqo/talk-kafka-zipkin) | Demo material from talk about tracing Kafka-based applications with Zipkin |  |
+| 21 | [@emedinaa](https://github.com/emedinaa)/[**android-mvp**](https://github.com/emedinaa/android-mvp) | Ejemplo de como implementar el Patrón MVP ( Model - View - Presenter) en Android |  |
+| 13 | [@jeqo](https://github.com/jeqo)/[**post-kafka-rewind-co…**](https://github.com/jeqo/post-kafka-rewind-consumer-offset) | Post: Kafka - Rewind Consumer Offset |  |
+| 10 | [@jmarkstar](https://github.com/jmarkstar)/[**GpsTrackerDemo**](https://github.com/jmarkstar/GpsTrackerDemo) | This little android project is using AlarmManager and JobScheduler to get Location in an interval time. |  |
+| 10 | [@jmarkstar](https://github.com/jmarkstar)/[**SQLiteNativo**](https://github.com/jmarkstar/SQLiteNativo) | Este proyecto es un App que básicamente usa la base de datos SQLite para poder crear un mantenimiento, brinda la introducción a SQLiteOpenHelper, Adapters y algunos componentes UI utiles para comenzar en android. |  |
+| 9 | [@jeqo](https://github.com/jeqo)/[**post-kafka-opentraci…**](https://github.com/jeqo/post-kafka-opentracing) | Post: Tracing Kafka Applications |  |
+| 9 | [@emedinaa](https://github.com/emedinaa)/[**Android-Backendless**](https://github.com/emedinaa/Android-Backendless) | Sample Login Android + REST API Backendless |  |
+| 7 | [@jmarkstar](https://github.com/jmarkstar)/[**TuristHelper**](https://github.com/jmarkstar/TuristHelper) | Demo App using foursquare API and google maps directions API. |  |
+| 5 | [@emedinaa](https://github.com/emedinaa)/[**android_custom_dialo…**](https://github.com/emedinaa/android_custom_dialog_fragment) | DialogFragment  with custom layout |  |
+| 5 | [@kerpie](https://github.com/kerpie)/[**Elephant**](https://github.com/kerpie/Elephant) | Annotation Processor to apply the Memoization technique in Utils-like classes |  |
+| 5 | [@emedinaa](https://github.com/emedinaa)/[**Android-Multiple-Pro…**](https://github.com/emedinaa/Android-Multiple-Product-Flavors) | Android Multiple Product Flavors |  |
+| 4 | [@emedinaa](https://github.com/emedinaa)/[**android_parse**](https://github.com/emedinaa/android_parse) | Migrar aplicación android de Parse a Backendless usando REST API |  |
+| 4 | [@emedinaa](https://github.com/emedinaa)/[**Pokedex-Kotlin**](https://github.com/emedinaa/Pokedex-Kotlin) | Kotlin for Android Developers |  |
+| 4 | [@jmarkstar](https://github.com/jmarkstar)/[**GreenDaoExamples**](https://github.com/jmarkstar/GreenDaoExamples) | This little android project is an example which containts a CRUD using ORM GreenDao, the app is using RecyclerView, CardView and SnackBar. |  |
+| 4 | [@jorgenro1](https://github.com/jorgenro1)/[**Arduino_Android**](https://github.com/jorgenro1/Arduino_Android) | Esta aplicación fue elaborada como un demo para la presentacion "Demo Code Live: Android y Arduino" celebrada en el CTIC-UNI en el evento Arduino Day 2014. Para la comunicacion se uso un modulo Bluetooth que se conecto al Arduino |  |
+| 4 | [@kerpie](https://github.com/kerpie)/[**Scrolling_Techniques…**](https://github.com/kerpie/Scrolling_Techniques_For_Android) | Scrolling techniques using the Android Design Support Library |  |
+| 4 | [@emedinaa](https://github.com/emedinaa)/[**monkey**](https://github.com/emedinaa/monkey) | Librería Http basada en Volley . "Es como usar Volley pero con sabor a retrofit" https://developer.android.com/training/v… |  |
+| 3 | [@jeqo](https://github.com/jeqo)/[**java-ee-rxjava-kafka…**](https://github.com/jeqo/java-ee-rxjava-kafka-avro) | Enabling Kafka as Event Source using Avro as Event Serializer/Deserializer and RxJava in a Java EE 7 application |  |
+| 3 | [@jeqo](https://github.com/jeqo)/[**talk-kafka-messaging…**](https://github.com/jeqo/talk-kafka-messaging-logs) | Talk: From Messaging to Logs with Apache Kafka |  |
+| 3 | [@jmarkstar](https://github.com/jmarkstar)/[**AndroidPaginationMvp…**](https://github.com/jmarkstar/AndroidPaginationMvpDemo) | This demo contents some lists with pagination and orientation changes support. |  |
+| 3 | [@jeqo](https://github.com/jeqo)/[**talk-observing-distr…**](https://github.com/jeqo/talk-observing-distributed-systems) |  |  |
+| 3 | [@jmarkstar](https://github.com/jmarkstar)/[**ChuckNorrisMVP**](https://github.com/jmarkstar/ChuckNorrisMVP) | This demo is consuming this http://www.icndb.com/api/ API REST to get Chuck Norris jokes xD, I'm using MVP Pattern with ThreadPoolExecutor and dagger 2. |  |
+| 3 | [@emedinaa](https://github.com/emedinaa)/[**sharedpreferenceshel…**](https://github.com/emedinaa/sharedpreferenceshelper) | SharedPreferencesHelper manages a local shared preferences in Android App |  |
+| 3 | [@pablo-johnson](https://github.com/pablo-johnson)/[**PopularMovies**](https://github.com/pablo-johnson/PopularMovies) | Popular movies project for Udacity Android Nanodegree |  |
+| 3 | [@emedinaa](https://github.com/emedinaa)/[**android_canvas_anima…**](https://github.com/emedinaa/android_canvas_animation) | Ejemplo de como crear un animación usando canvas - Android |  |
+| 3 | [@emedinaa](https://github.com/emedinaa)/[**google-io-extended-l…**](https://github.com/emedinaa/google-io-extended-lima-2014) | Ejemplo App Android L -  RecyclerView, CardView |  |
+| 3 | [@ameison](https://github.com/ameison)/[**abcdroid**](https://github.com/ameison/abcdroid) | Este repositorio contiene los demos usado en mi blog |  |
+| 3 | [@jubre](https://github.com/jubre)/[**ConvertirNumeroDecim…**](https://github.com/jubre/ConvertirNumeroDecimalToRomano) | Alternativa de solucion al Coding Dojo de Conversion de Numeros Decimales a Romanos |  |
+| 3 | [@jmarkstar](https://github.com/jmarkstar)/[**AndroidUploadingLong…**](https://github.com/jmarkstar/AndroidUploadingLongFiles) | Simple demo about uploading Long files using a service and retrofit 2 |  |
+| 2 | [@jmarkstar](https://github.com/jmarkstar)/[**CursoAndroidIntermed…**](https://github.com/jmarkstar/CursoAndroidIntermedio) | Curso de android Intermedio |  |
+| 2 | [@jeqo](https://github.com/jeqo)/[**poc-akka**](https://github.com/jeqo/poc-akka) | akka proof of concept |  |
+| 2 | [@kerpie](https://github.com/kerpie)/[**Camera**](https://github.com/kerpie/Camera) |  |  |
+| 2 | [@jvalenciag](https://github.com/jvalenciag)/[**VaadinSpringShiroMon…**](https://github.com/jvalenciag/VaadinSpringShiroMongoDB) | Example of integration |  |
+| 2 | [@jhoon](https://github.com/jhoon)/[**spotify-streamer**](https://github.com/jhoon/spotify-streamer) | Spotify Streamer, Project 2 in the Udacity Android Nanodegree |  |
+| 2 | [@necritos](https://github.com/necritos)/[**BeaconApp**](https://github.com/necritos/BeaconApp) |  |  |
+| 2 | [@emedinaa](https://github.com/emedinaa)/[**Firebase-Android**](https://github.com/emedinaa/Firebase-Android) | Firebase examples for Android |  |
+| 2 | [@emedinaa](https://github.com/emedinaa)/[**android_exception_ha…**](https://github.com/emedinaa/android_exception_handler) | Global exception handling on android |  |
+| 2 | [@emedinaa](https://github.com/emedinaa)/[**android_drupal**](https://github.com/emedinaa/android_drupal) | Ejemplo de android con drupal |  |
+| 2 | [@emedinaa](https://github.com/emedinaa)/[**Congreso-Online-Movi…**](https://github.com/emedinaa/Congreso-Online-MovilAPp-2015) | Charla en el Congreso Online MóvilAPp 2015 -  Consumir servicios REST usando Volley y Retrofit en Android | [:arrow_upper_right:](http://escuela.it/cursos/congreso-de-desarrollo-de-apps-moviles/) |
+| 2 | [@emedinaa](https://github.com/emedinaa)/[**android-maven**](https://github.com/emedinaa/android-maven) | Ejemplo de como crear una dependencia local usando el plugin de Maven para Gradle |  |
+| 2 | [@jmarkstar](https://github.com/jmarkstar)/[**ubl4sunatbinding**](https://github.com/jmarkstar/ubl4sunatbinding) | Esta libreria contiene todas las clases necesarias para construir los archivos xml que sunat solicita, contiene las clases convertidas desde los xsd usando JAXB. |  |
+| 2 | [@emedinaa](https://github.com/emedinaa)/[**limaGameJam2013**](https://github.com/emedinaa/limaGameJam2013) | limaGameJam2013 |  |
+| 2 | [@emedinaa](https://github.com/emedinaa)/[**fragment_activity**](https://github.com/emedinaa/fragment_activity) | Ejemplo de comunicación entre fragments y activity |  |
 
 ### C# #
 
- | :star2: | Name | Description | 🌍 |
- | --- | --- | --- | --- |
- | 83 | [@jaime-olivares](https://github.com/jaime-olivares)/[**zipstorer**](https://github.com/jaime-olivares/zipstorer) | A Pure C# Class to Store Files in Zip |
-53 | [@wilsonvargas](https://github.com/wilsonvargas)/[**ButtonCirclePlugin**](https://github.com/wilsonvargas/ButtonCirclePlugin) | Circle Buttons with icon for your Xamarin.Forms Applications  |
-23 | [@jaime-olivares](https://github.com/jaime-olivares)/[**wpf-propertygrid**](https://github.com/jaime-olivares/wpf-propertygrid) | Repackaging of Workflow Foundation's property grid for general use in WPF applications |
-10 | [@wilsonvargas](https://github.com/wilsonvargas)/[**EntryValidatorPlugin**](https://github.com/wilsonvargas/EntryValidatorPlugin) | Entry validators for your Xamarin.Forms Applications  |
-9 | [@wilsonvargas](https://github.com/wilsonvargas)/[**ScreenshotPlugin**](https://github.com/wilsonvargas/ScreenshotPlugin) | A simple Screenshot plugin for Xamarin and Windows to get and save screenshot in yours apps. |
-7 | [@wilsonvargas](https://github.com/wilsonvargas)/[**GradientNavigationTo…**](https://github.com/wilsonvargas/GradientNavigationToolbarXamarinForms) | This is a small sample application showing how to custom a Navigation Page (Toolbar on Android or UINavigationBar on iOS) |
-7 | [@wilsonvargas](https://github.com/wilsonvargas)/[**QRManager**](https://github.com/wilsonvargas/QRManager) | This is an example that uses ZXing.Net.Mobile for Forms.  See more information here:  | [:arrow_upper_right:](http://blog.wilsonvargas.com/generando-y-leyendo-codigos-qr-con-xamarin-form/)
-6 | [@wilsonvargas](https://github.com/wilsonvargas)/[**SearchBarNavigationP…**](https://github.com/wilsonvargas/SearchBarNavigationPage) | This is a small sample showing how to add a search bar to Navigation Page (Toolbar on Android or UINavigationBar on iOS) |
-6 | [@jesulink2514](https://github.com/jesulink2514)/[**Xamarin.ProgressStat…**](https://github.com/jesulink2514/Xamarin.ProgressStatusBar) | A cross-platform control to represent a status bar |
-6 | [@wilsonvargas](https://github.com/wilsonvargas)/[**SimpleLoginXamarinFo…**](https://github.com/wilsonvargas/SimpleLoginXamarinForms) | This is a simple example how to do a login using Xamarin.Form. The theoretical part can be found in the following link:  | [:arrow_upper_right:](http://wilsonvargas.azurewebsites.net/creando-un-simple-login-en-xamarin-forms/)
-5 | [@jesulink2514](https://github.com/jesulink2514)/[**CardDemoXamarin**](https://github.com/jesulink2514/CardDemoXamarin) | Sample using XamarinFastEntryBehavior to create a credit card form with card type detection in Xamarin.Forms |
-4 | [@jaime-olivares](https://github.com/jaime-olivares)/[**coordinate**](https://github.com/jaime-olivares/coordinate) | C# Classes to store, handle, and retrieve geodesic coordinates, in memory, database, and XML, according to the ISO 6709 standard |
-3 | [@jaime-olivares](https://github.com/jaime-olivares)/[**bzip2**](https://github.com/jaime-olivares/bzip2) | A pure C# implementation of the bzip2 compressor |
-3 | [@jesulink2514](https://github.com/jesulink2514)/[**Xamarin.Forms.Redux-…**](https://github.com/jesulink2514/Xamarin.Forms.Redux-Sample) | Sample using Redux architecture with Xamarin.Forms |
-2 | [@emiaj](https://github.com/emiaj)/[**windmill**](https://github.com/emiaj/windmill) | FubuMVC Permissions Module |
-2 | [@emiaj](https://github.com/emiaj)/[**YouGrade**](https://github.com/emiaj/YouGrade) | MS MVC3 project (http://www.codeproject.com/KB/aspnet/Yo… ported to the FubuMVC framework, the AngularJS version of this project can be found here https://github.com/emiaj/spa-yougrade |
-2 | [@emiaj](https://github.com/emiaj)/[**FubuMvcSparkProjectT…**](https://github.com/emiaj/FubuMvcSparkProjectTemplate) | VS project template to quickly create FUBU MVC ready apps that use the Spark view engine. |  |
+| :star2: | Name | Description | 🌍  |
+| ------- | ---- | ----------- | --- |
+| 83 | [@jaime-olivares](https://github.com/jaime-olivares)/[**zipstorer**](https://github.com/jaime-olivares/zipstorer) | A Pure C# Class to Store Files in Zip |  |
+| 53 | [@wilsonvargas](https://github.com/wilsonvargas)/[**ButtonCirclePlugin**](https://github.com/wilsonvargas/ButtonCirclePlugin) | Circle Buttons with icon for your Xamarin.Forms Applications |  |
+| 23 | [@jaime-olivares](https://github.com/jaime-olivares)/[**wpf-propertygrid**](https://github.com/jaime-olivares/wpf-propertygrid) | Repackaging of Workflow Foundation's property grid for general use in WPF applications |  |
+| 10 | [@wilsonvargas](https://github.com/wilsonvargas)/[**EntryValidatorPlugin**](https://github.com/wilsonvargas/EntryValidatorPlugin) | Entry validators for your Xamarin.Forms Applications |  |
+| 9 | [@wilsonvargas](https://github.com/wilsonvargas)/[**ScreenshotPlugin**](https://github.com/wilsonvargas/ScreenshotPlugin) | A simple Screenshot plugin for Xamarin and Windows to get and save screenshot in yours apps. |  |
+| 7 | [@wilsonvargas](https://github.com/wilsonvargas)/[**GradientNavigationTo…**](https://github.com/wilsonvargas/GradientNavigationToolbarXamarinForms) | This is a small sample application showing how to custom a Navigation Page (Toolbar on Android or UINavigationBar on iOS) |  |
+| 7 | [@wilsonvargas](https://github.com/wilsonvargas)/[**QRManager**](https://github.com/wilsonvargas/QRManager) | This is an example that uses ZXing.Net.Mobile for Forms.  See more information here: | [:arrow_upper_right:](http://blog.wilsonvargas.com/generando-y-leyendo-codigos-qr-con-xamarin-form/) |
+| 6 | [@wilsonvargas](https://github.com/wilsonvargas)/[**SearchBarNavigationP…**](https://github.com/wilsonvargas/SearchBarNavigationPage) | This is a small sample showing how to add a search bar to Navigation Page (Toolbar on Android or UINavigationBar on iOS) |  |
+| 6 | [@jesulink2514](https://github.com/jesulink2514)/[**Xamarin.ProgressStat…**](https://github.com/jesulink2514/Xamarin.ProgressStatusBar) | A cross-platform control to represent a status bar |  |
+| 6 | [@wilsonvargas](https://github.com/wilsonvargas)/[**SimpleLoginXamarinFo…**](https://github.com/wilsonvargas/SimpleLoginXamarinForms) | This is a simple example how to do a login using Xamarin.Form. The theoretical part can be found in the following link: | [:arrow_upper_right:](http://wilsonvargas.azurewebsites.net/creando-un-simple-login-en-xamarin-forms/) |
+| 5 | [@jesulink2514](https://github.com/jesulink2514)/[**CardDemoXamarin**](https://github.com/jesulink2514/CardDemoXamarin) | Sample using XamarinFastEntryBehavior to create a credit card form with card type detection in Xamarin.Forms |  |
+| 4 | [@jaime-olivares](https://github.com/jaime-olivares)/[**coordinate**](https://github.com/jaime-olivares/coordinate) | C# Classes to store, handle, and retrieve geodesic coordinates, in memory, database, and XML, according to the ISO 6709 standard |  |
+| 3 | [@jaime-olivares](https://github.com/jaime-olivares)/[**bzip2**](https://github.com/jaime-olivares/bzip2) | A pure C# implementation of the bzip2 compressor |  |
+| 3 | [@jesulink2514](https://github.com/jesulink2514)/[**Xamarin.Forms.Redux-…**](https://github.com/jesulink2514/Xamarin.Forms.Redux-Sample) | Sample using Redux architecture with Xamarin.Forms |  |
+| 2 | [@emiaj](https://github.com/emiaj)/[**windmill**](https://github.com/emiaj/windmill) | FubuMVC Permissions Module |  |
+| 2 | [@emiaj](https://github.com/emiaj)/[**YouGrade**](https://github.com/emiaj/YouGrade) | MS MVC3 project (http://www.codeproject.com/KB/aspnet/Yo… ported to the FubuMVC framework, the AngularJS version of this project can be found here https://github.com/emiaj/spa-yougrade |  |
+| 2 | [@emiaj](https://github.com/emiaj)/[**FubuMvcSparkProjectT…**](https://github.com/emiaj/FubuMvcSparkProjectTemplate) | VS project template to quickly create FUBU MVC ready apps that use the Spark view engine. |  |
+
 
 
 
@@ -244,6 +245,8 @@ There are few ways to get help:
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
+
 
 
 
